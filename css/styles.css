@@ -1,0 +1,138 @@
+.section1{
+    font-family: 'Inter';
+    display: flex;
+    justify-content: center;  
+    margin-bottom: 48px;
+  }
+  .yellow-cont{
+   margin-top: 84px;
+  }
+  .blue-cont{
+    text-align: center;
+  }
+  .text-1 {
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 9px;
+  }
+  .text-2{
+    font-size: 54px;
+    font-weight: 600;
+    padding-top: 4px;
+    padding-bottom: 20px; 
+  }
+  .text-3{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    color: #5F6980;
+  }
+  .red-cont{
+    height: 430px;
+    width: 1336px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-between;
+    margin-top: 48px;
+  }
+  .green-cont{
+    height: 430px;
+    width: 310px;
+    line-height: 22px;
+    border: 4px solid #EAECF0  
+  }
+  .image-descr{
+    padding: 16px; 
+  }
+  .name{
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 10px;
+  }
+  .job-descr{
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .there-are-many{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    padding-top: 8px;
+    color: #5F6980;
+  }
+  .fit-icon{
+    background-color: #F2F4F7;
+    border-radius: 50px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin: 8px;
+  }
+  .icons {
+    display: flex; 
+    flex-wrap: wrap;
+    align-items: self-start;
+  }
+  .title-image{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-between;
+  }
+  
+  /*footer*/
+  .background{
+    background-color:  #53535354;
+    font-family: 'Inter';
+    display: flex;
+    justify-content: center;
+    height: 460px;
+  }
+  .all-blocks{
+    width: 1306px;
+    height: 223px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 108px;
+    color: #535353;   
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .block1{
+    width: 318.05px;
+    height: 221px;
+    line-height: 16px; 
+  }
+  .foot-logo{
+    padding-bottom: 32px;
+  }
+   .all-icons{
+    display: flex;
+   }
+  .foot-icon{
+    padding-right: 15px;
+    padding-top: 28px;
+  }
+  .foot-titel{
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 35px;
+    color: black;
+  }
+  .block{
+    line-height: 49px;
+    color:  #535353;  
+  }
+  .english{
+    width: 80px;
+    height: 45px;
+    background-color: #054A68;
+    text-align: center;
+    color: #EAECF0;
+  }

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../inter-regular/Inter-Regular.eot');
+    src: url('../inter-regular/Inter-Regular.eot') format('embedded-opentype'),
+        url('../inter-regular/Inter-Regular.woff2') format('woff2'),
+        url('../inter-regular/Inter-Regular.woff') format('woff'),
+        url('../inter-regular/Inter-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
